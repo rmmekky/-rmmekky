@@ -15,3 +15,13 @@ It uses AI models for text classification and image captioning, and stores resul
 
 🌐 Streamlit UI → Simple and interactive web interface.
 
+.
+
+📂 Project Structure
+├── app.py              # Main Streamlit app  
+├── text_classifier.py  # Text classification module  
+├── imagecaption.py     # Image captioning module  
+├── database.py         # CSV database management  
+├── data.csv            # Saved inputs and results  
+└── README.md           # Project documentation 
+
