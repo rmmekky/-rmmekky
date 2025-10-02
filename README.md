@@ -1,2 +1,17 @@
-# -rmmekky
-SafePost – AI app that classifies text and images as Safe or Inappropriate using HuggingFace Transformers.
+SafePost
+
+SafePost is a Streamlit-based web app that analyzes user-generated text and images to check whether the content is safe to post or inappropriate.
+It uses AI models for text classification and image captioning, and stores results in a simple CSV-based database.
+
+🚀 Features
+
+📝 Text classification → Detects safe vs. inappropriate content.
+
+🖼️ Image captioning → Generates detailed captions for uploaded images.
+
+💾 CSV database → Stores all inputs, classifications, and timestamps.
+
+📊 Data visualization → Provides insights into safe vs. unsafe posts.
+
+🌐 Streamlit UI → Simple and interactive web interface.
+
